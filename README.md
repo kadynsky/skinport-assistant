@@ -1,6 +1,6 @@
 # Skinport Assistant
 
-This code will assist you in making the best deal for CSGO skins. It outputs the best item according to your preferences in a clear format.
+This code will assist you in making the best deal for CSGO skins. It outputs the best item according to your preferences in a clear format. This micro-project wouldn't exist if not my dear fried A.Z.❤️
 
 ## Requirements
 To use this code, you will need to install the following modules on your computer:
